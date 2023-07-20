@@ -1,0 +1,58 @@
+/* 18.06.19 - Webbax | TUTO 79 */
+#cms .li-category-blog{border-bottom:1px dashed #ccc;padding-top:20px;}
+#cms .li-category-blog .title{font-weight:bold;}
+#cms .li-category-blog span{display:block;}
+#cms .li-category-blog img{margin-bottom:20px;margin-top:20px;width:100%;}
+#cms .li-category-blog .btn{margin-top:0px;margin-bottom:20px;}
+
+/* desktop */
+@media(min-width:1024px){ 
+    #cms .li-category-blog{margin-left:20%;margin-right:20%;}
+}
+
+/* mobile */
+@media(max-width:600px){ 
+    #cms .li-category-blog{padding-left:10%;padding-right:10%;background-color:#fff;}
+}
+
+#ultimatum_footer{padding-bottom:15px;margin-bottom:20px;border-bottom:1px solid #eee;}
+#ultimatum_footer img{max-width:100%;border:1px solid #eee;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;}
+@media(max-width:650px){
+    #ultimatum_footer img{margin-bottom:10px;}
+}
+
+#wrapper{ background-color: #E6E6E6; }
+
+.products-section-title{ color: #ffffff; }
+
+#header, #footer{ background-color:	#C0C0C0 !important; }
+
+#header a{ color: #ffffff !important; }
+
+.menu a{ color: #ffffff !important; }
+
+.popover{ 
+	background-color: #808080; 
+	opacity: 0.8;
+}
+
+.hidden-sm-down{ color: #000000; }
+
+.row a, p{ color: #000000 !important; }
+
+.myaccount-title a{ color: #000000 !important; }
+
+#block-newsletter-label{ color: #ffffff !important; }
+
+.col-xs-12 p{ color: #000000 !important; }
+
+.img-responsive{ width: 650px !important; }
+
+#block-newsletter-label{ color: #000000 !important; font-weight: bold; }
+
+.facebook a{ background-color: none !important; }
+
+.text-sm-center p{ color: #0000000 !important; }
+
+.pagination{ display: none; }
+

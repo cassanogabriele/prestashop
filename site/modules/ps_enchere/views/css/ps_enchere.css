@@ -1,0 +1,29 @@
+#ps_enchere_block_home{
+    box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
+    background: #fff;
+    padding: 1.563rem 1.25rem;
+    margin-bottom: 1.563rem;
+}
+
+#pseudo{
+	color: #FE642E;
+	font-style: oblique 40deg;
+}
+
+#dev{
+	color: #2E9AFE;
+	font-style: italic;
+}
+
+.personal-img img{
+	border-radius: 4px;
+	border: 2px solid #01DFA5;
+}
+
+.personal-img img:hover{
+	border : 2px solid #2ECCFA;
+}
+
+.center{ 
+	text-decoration: none !important; 
+}

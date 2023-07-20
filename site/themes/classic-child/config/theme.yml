@@ -1,0 +1,8 @@
+parent: classic
+name: classic-child
+display_name: Custom Theme
+version: 1.0.0
+assets:
+    use_parent_assets: true
+    
+   

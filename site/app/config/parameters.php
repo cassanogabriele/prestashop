@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'c0mylowerpriceshop',
+    'database_user' => 'c0myloprsh',
+    'database_password' => 'dtnuYCg7YN#3',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'cYiHODVRRUXRZijUpPUmY1uQTwEcxDTF2UoNWu9oL79xMUhAf0cUNe08',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-01-14',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'GMdfypM9I0s75HNad5i2pHP4QvqADN3zQLBk8GDEjxNSyqZKR83kUbAs',
+    'cookie_iv' => 'gpu3E7An',
+    'new_cookie_key' => 'def0000080441a140c76db081171b9aca2e412db42cefee8e7dd2de5f5a360dc0ed471be48d952a43067a0cee6d245b796fab2772aab39547f6d487c29a1acd4c1c609b9',
+  ),
+);
